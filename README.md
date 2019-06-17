@@ -1,2 +1,0 @@
-# ups
-UI test
